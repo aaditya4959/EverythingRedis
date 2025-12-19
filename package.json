@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "redis": "^5.10.0"
+  },
+  "name": "everythingredis",
+  "version": "1.0.0",
+  "description": "Repository containing my learning approach towards Redis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaditya4959/EverythingRedis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaditya4959/EverythingRedis/issues"
+  },
+  "homepage": "https://github.com/aaditya4959/EverythingRedis#readme"
+}
