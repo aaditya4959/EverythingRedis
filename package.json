@@ -3,6 +3,7 @@
     "express": "^5.2.1",
     "redis": "^5.10.0"
   },
+  "type": "module",
   "name": "everythingredis",
   "version": "1.0.0",
   "description": "Repository containing my learning approach towards Redis.",
